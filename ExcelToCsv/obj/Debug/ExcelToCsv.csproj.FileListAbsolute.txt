@@ -1,0 +1,9 @@
+C:\ElevenFiftyProjects\Atlas\ExcelToCsv\ExcelToCsv\obj\Debug\ExcelToCsv.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\Atlas\ExcelToCsv\ExcelToCsv\obj\Debug\ExcelToCsv.csproj.SuggestedBindingRedirects.cache
+C:\ElevenFiftyProjects\Atlas\ExcelToCsv\ExcelToCsv\obj\Debug\ExcelToCsv.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Atlas\ExcelToCsv\ExcelToCsv\bin\Debug\ExcelToCsv.exe.config
+C:\ElevenFiftyProjects\Atlas\ExcelToCsv\ExcelToCsv\bin\Debug\ExcelToCsv.exe
+C:\ElevenFiftyProjects\Atlas\ExcelToCsv\ExcelToCsv\bin\Debug\ExcelToCsv.pdb
+C:\ElevenFiftyProjects\Atlas\ExcelToCsv\ExcelToCsv\obj\Debug\ExcelToCsv.exe
+C:\ElevenFiftyProjects\Atlas\ExcelToCsv\ExcelToCsv\obj\Debug\ExcelToCsv.pdb
+C:\ElevenFiftyProjects\Atlas\ExcelToCsv\ExcelToCsv\obj\Debug\ExcelToCsv.csproj.ResolveComReference.cache
