@@ -20,13 +20,11 @@ namespace ExcelToCsv
                 //Prompt User code
 
                 Console.WriteLine(@"Enter the path to your .xlsx file (for example: C:\MyDocuments\MySpreadsheet.xlsx)");
-                //string fileLocation = Console.ReadLine();
-                string fileLocation = @"C:\Games\excel.xlsx";
+                string fileLocation = Console.ReadLine();
                 string directoryName = Path.GetDirectoryName(fileLocation);
                 Console.WriteLine("Enter the number of rows in your spreadsheet (including the header row)");
 
-                int numberOfRows = 100;
-                //int.Parse(Console.ReadLine());
+                int numberOfRows = int.Parse(Console.ReadLine());
 
                 int errorRow = 1;
 
